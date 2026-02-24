@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTIKETA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TIKETA>
+    <Id>0</Id>
+    <Data>2026-01-16T08:49:53.9451726+01:00</Data>
+    <Kantitatea>193</Kantitatea>
+    <PrezioaKg>203</PrezioaKg>
+    <Totala>3918</Totala>
+    <IdSaltzailea>1</IdSaltzailea>
+    <IdProduktua>1</IdProduktua>
+  </TIKETA>
+  <TIKETA>
+    <Id>0</Id>
+    <Data>2026-01-16T08:49:53.9637457+01:00</Data>
+    <Kantitatea>28</Kantitatea>
+    <PrezioaKg>203</PrezioaKg>
+    <Totala>568</Totala>
+    <IdSaltzailea>1</IdSaltzailea>
+    <IdProduktua>1</IdProduktua>
+  </TIKETA>
+</ArrayOfTIKETA>

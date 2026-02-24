@@ -1,0 +1,31 @@
+<xs:schema xmlns:xs='http://www.w3.org/2001/XMLSchema'>
+  <xs:element name='Ticket'>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name='IdTicket' type='xs:int'/>
+        <xs:element name='Data' type='xs:dateTime'/>
+        <xs:element name='Saltzailea'>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name='IdSaltzailea' type='xs:int'/>
+              <xs:element name='Izena' type='xs:string'/>
+              <xs:element name='NAN' type='xs:string'/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name='Produktua'>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name='IdProduktua' type='xs:int'/>
+              <xs:element name='Izena' type='xs:string'/>
+              <xs:element name='Kategoria' type='xs:string'/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name='Kantitatea' type='xs:decimal'/>
+        <xs:element name='PrezioaKg' type='xs:decimal'/>
+        <xs:element name='Totala' type='xs:decimal'/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

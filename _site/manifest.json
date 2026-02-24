@@ -1,0 +1,386 @@
+{
+  "source_base_path": "C:/Users/josebahuegun/Desktop/ERRONKAK/2/VISUALERRONKA/SUPERMERKATUA",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Dokumentazioa/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "Dokumentazioa/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Dokumentazioa/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Dokumentazioa/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Dokumentazioa/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Dokumentazioa/toc.html"
+        },
+        ".json": {
+          "relative_path": "Dokumentazioa/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.ESTADISTIKAK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.ESTADISTIKAK.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.ESTADISTIKAK",
+      "Summary": "<p sourcefile=\"api/SUPERMERKATUA.ESTADISTIKAK.yml\" sourcestartlinenumber=\"1\">ESTADITIKAK KLASEA</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.EXCELkudeatu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.EXCELkudeatu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.EXCELkudeatu",
+      "Summary": "<p sourcefile=\"api/SUPERMERKATUA.EXCELkudeatu.yml\" sourcestartlinenumber=\"1\">A</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.FitxategiaKargatu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.FitxategiaKargatu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.FitxategiaKargatu",
+      "Summary": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.KudeatuEmail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.KudeatuEmail.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.KudeatuEmail",
+      "Summary": "<p sourcefile=\"api/SUPERMERKATUA.KudeatuEmail.yml\" sourcestartlinenumber=\"1\">EMAILA KUDEATZEKO KLASEA</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.Produktua.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.Produktua.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.Produktua",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.Saltzailea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.Saltzailea.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.Saltzailea",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.TIKETA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.TIKETA.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.TIKETA",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.XMLsortu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.XMLsortu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.XMLsortu",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SUPERMERKATUA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SUPERMERKATUA.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.ESTADISTIKAK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.ESTADISTIKAK.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.ESTADISTIKAK",
+      "Summary": "<p sourcefile=\"docs/api/SUPERMERKATUA.ESTADISTIKAK.yml\" sourcestartlinenumber=\"1\">ESTADITIKAK KLASEA</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.EXCELkudeatu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.EXCELkudeatu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.EXCELkudeatu",
+      "Summary": "<p sourcefile=\"docs/api/SUPERMERKATUA.EXCELkudeatu.yml\" sourcestartlinenumber=\"1\">A</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.FitxategiaKargatu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.FitxategiaKargatu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.FitxategiaKargatu",
+      "Summary": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.KudeatuEmail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.KudeatuEmail.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.KudeatuEmail",
+      "Summary": "<p sourcefile=\"docs/api/SUPERMERKATUA.KudeatuEmail.yml\" sourcestartlinenumber=\"1\">EMAILA KUDEATZEKO KLASEA</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.Produktua.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.Produktua.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.Produktua",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.Saltzailea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.Saltzailea.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.Saltzailea",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.TIKETA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.TIKETA.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.TIKETA",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.XMLsortu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.XMLsortu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA.XMLsortu",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/SUPERMERKATUA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/SUPERMERKATUA.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SUPERMERKATUA",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

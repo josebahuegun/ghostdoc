@@ -1,0 +1,519 @@
+### YamlMime:ManagedReference
+items:
+- uid: SUPERMERKATUA.ESTADISTIKAK
+  commentId: T:SUPERMERKATUA.ESTADISTIKAK
+  id: ESTADISTIKAK
+  parent: SUPERMERKATUA
+  children:
+  - SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(System.String)
+  - SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(System.String)
+  - SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(System.String)
+  - SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(System.String)
+  - SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(System.String)
+  - SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(System.String)
+  langs:
+  - csharp
+  - vb
+  name: ESTADISTIKAK
+  nameWithType: ESTADISTIKAK
+  fullName: SUPERMERKATUA.ESTADISTIKAK
+  type: Class
+  source:
+    id: ESTADISTIKAK
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 12
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: ESTADITIKAK KLASEA
+  example: []
+  syntax:
+    content: public class ESTADISTIKAK
+    content.vb: Public Class ESTADISTIKAK
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(System.String)
+  id: GehienSalduDenProduktua(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: GehienSalduDenProduktua(string)
+  nameWithType: ESTADISTIKAK.GehienSalduDenProduktua(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(string)
+  type: Method
+  source:
+    id: GehienSalduDenProduktua
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 19
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Gehiens the saldu den produktua.
+  example: []
+  syntax:
+    content: public static void GehienSalduDenProduktua(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub GehienSalduDenProduktua(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua*
+  nameWithType.vb: ESTADISTIKAK.GehienSalduDenProduktua(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(String)
+  name.vb: GehienSalduDenProduktua(String)
+- uid: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(System.String)
+  id: GutxienSalduDenProduktua(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: GutxienSalduDenProduktua(string)
+  nameWithType: ESTADISTIKAK.GutxienSalduDenProduktua(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(string)
+  type: Method
+  source:
+    id: GutxienSalduDenProduktua
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 52
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Gutxiens the saldu den produktua.
+  example: []
+  syntax:
+    content: public static void GutxienSalduDenProduktua(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub GutxienSalduDenProduktua(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua*
+  nameWithType.vb: ESTADISTIKAK.GutxienSalduDenProduktua(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(String)
+  name.vb: GutxienSalduDenProduktua(String)
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(System.String)
+  id: GehienSalduDuenSaltzailea(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: GehienSalduDuenSaltzailea(string)
+  nameWithType: ESTADISTIKAK.GehienSalduDuenSaltzailea(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(string)
+  type: Method
+  source:
+    id: GehienSalduDuenSaltzailea
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 85
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Gehien saldu den saltzailea.
+  example: []
+  syntax:
+    content: public static void GehienSalduDuenSaltzailea(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub GehienSalduDuenSaltzailea(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea*
+  nameWithType.vb: ESTADISTIKAK.GehienSalduDuenSaltzailea(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(String)
+  name.vb: GehienSalduDuenSaltzailea(String)
+- uid: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(System.String)
+  id: GutxienSalduDuenSaltzailea(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: GutxienSalduDuenSaltzailea(string)
+  nameWithType: ESTADISTIKAK.GutxienSalduDuenSaltzailea(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(string)
+  type: Method
+  source:
+    id: GutxienSalduDuenSaltzailea
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 118
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Gutxiens the saldu duen saltzailea.
+  example: []
+  syntax:
+    content: public static void GutxienSalduDuenSaltzailea(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub GutxienSalduDuenSaltzailea(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea*
+  nameWithType.vb: ESTADISTIKAK.GutxienSalduDuenSaltzailea(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(String)
+  name.vb: GutxienSalduDuenSaltzailea(String)
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(System.String)
+  id: GehienSalduDenEguna(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: GehienSalduDenEguna(string)
+  nameWithType: ESTADISTIKAK.GehienSalduDenEguna(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(string)
+  type: Method
+  source:
+    id: GehienSalduDenEguna
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 151
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Gehiens the saldu den eguna.
+  example: []
+  syntax:
+    content: public static void GehienSalduDenEguna(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub GehienSalduDenEguna(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna*
+  nameWithType.vb: ESTADISTIKAK.GehienSalduDenEguna(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(String)
+  name.vb: GehienSalduDenEguna(String)
+- uid: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(System.String)
+  commentId: M:SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(System.String)
+  id: SaldutakoaSaltzaileko(System.String)
+  parent: SUPERMERKATUA.ESTADISTIKAK
+  langs:
+  - csharp
+  - vb
+  name: SaldutakoaSaltzaileko(string)
+  nameWithType: ESTADISTIKAK.SaldutakoaSaltzaileko(string)
+  fullName: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(string)
+  type: Method
+  source:
+    id: SaldutakoaSaltzaileko
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    startLine: 184
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  summary: Saldutakoas the saltzaileko.
+  example: []
+  syntax:
+    content: public static void SaldutakoaSaltzaileko(string connectionString)
+    parameters:
+    - id: connectionString
+      type: System.String
+      description: The connection string.
+    content.vb: Public Shared Sub SaldutakoaSaltzaileko(connectionString As String)
+  overload: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko*
+  nameWithType.vb: ESTADISTIKAK.SaldutakoaSaltzaileko(String)
+  fullName.vb: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(String)
+  name.vb: SaldutakoaSaltzaileko(String)
+references:
+- uid: SUPERMERKATUA
+  commentId: N:SUPERMERKATUA
+  href: SUPERMERKATUA.html
+  name: SUPERMERKATUA
+  nameWithType: SUPERMERKATUA
+  fullName: SUPERMERKATUA
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_GehienSalduDenProduktua_System_String_
+  name: GehienSalduDenProduktua
+  nameWithType: ESTADISTIKAK.GehienSalduDenProduktua
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.string
+  name: string
+  nameWithType: string
+  fullName: string
+  nameWithType.vb: String
+  fullName.vb: String
+  name.vb: String
+- uid: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_GutxienSalduDenProduktua_System_String_
+  name: GutxienSalduDenProduktua
+  nameWithType: ESTADISTIKAK.GutxienSalduDenProduktua
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_GehienSalduDuenSaltzailea_System_String_
+  name: GehienSalduDuenSaltzailea
+  nameWithType: ESTADISTIKAK.GehienSalduDuenSaltzailea
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea
+- uid: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_GutxienSalduDuenSaltzailea_System_String_
+  name: GutxienSalduDuenSaltzailea
+  nameWithType: ESTADISTIKAK.GutxienSalduDuenSaltzailea
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea
+- uid: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_GehienSalduDenEguna_System_String_
+  name: GehienSalduDenEguna
+  nameWithType: ESTADISTIKAK.GehienSalduDenEguna
+  fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna
+- uid: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko*
+  commentId: Overload:SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko
+  href: SUPERMERKATUA.ESTADISTIKAK.html#SUPERMERKATUA_ESTADISTIKAK_SaldutakoaSaltzaileko_System_String_
+  name: SaldutakoaSaltzaileko
+  nameWithType: ESTADISTIKAK.SaldutakoaSaltzaileko
+  fullName: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko

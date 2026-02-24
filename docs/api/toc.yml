@@ -1,0 +1,31 @@
+### YamlMime:TableOfContent
+items:
+- uid: SUPERMERKATUA
+  name: SUPERMERKATUA
+  type: Namespace
+  items:
+  - uid: SUPERMERKATUA.ESTADISTIKAK
+    name: ESTADISTIKAK
+    type: Class
+  - uid: SUPERMERKATUA.EXCELkudeatu
+    name: EXCELkudeatu
+    type: Class
+  - uid: SUPERMERKATUA.FitxategiaKargatu
+    name: FitxategiaKargatu
+    type: Class
+  - uid: SUPERMERKATUA.KudeatuEmail
+    name: KudeatuEmail
+    type: Class
+  - uid: SUPERMERKATUA.Produktua
+    name: Produktua
+    type: Class
+  - uid: SUPERMERKATUA.Saltzailea
+    name: Saltzailea
+    type: Class
+  - uid: SUPERMERKATUA.TIKETA
+    name: TIKETA
+    type: Class
+  - uid: SUPERMERKATUA.XMLsortu
+    name: XMLsortu
+    type: Class
+memberLayout: SamePage

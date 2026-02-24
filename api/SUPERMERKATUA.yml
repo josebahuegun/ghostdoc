@@ -1,0 +1,72 @@
+### YamlMime:ManagedReference
+items:
+- uid: SUPERMERKATUA
+  commentId: N:SUPERMERKATUA
+  id: SUPERMERKATUA
+  children:
+  - SUPERMERKATUA.ESTADISTIKAK
+  - SUPERMERKATUA.EXCELkudeatu
+  - SUPERMERKATUA.FitxategiaKargatu
+  - SUPERMERKATUA.KudeatuEmail
+  - SUPERMERKATUA.Produktua
+  - SUPERMERKATUA.Saltzailea
+  - SUPERMERKATUA.TIKETA
+  - SUPERMERKATUA.XMLsortu
+  langs:
+  - csharp
+  - vb
+  name: SUPERMERKATUA
+  nameWithType: SUPERMERKATUA
+  fullName: SUPERMERKATUA
+  type: Namespace
+  assemblies:
+  - SUPERMERKATUA
+references:
+- uid: SUPERMERKATUA.ESTADISTIKAK
+  commentId: T:SUPERMERKATUA.ESTADISTIKAK
+  href: SUPERMERKATUA.ESTADISTIKAK.html
+  name: ESTADISTIKAK
+  nameWithType: ESTADISTIKAK
+  fullName: SUPERMERKATUA.ESTADISTIKAK
+- uid: SUPERMERKATUA.EXCELkudeatu
+  commentId: T:SUPERMERKATUA.EXCELkudeatu
+  href: SUPERMERKATUA.EXCELkudeatu.html
+  name: EXCELkudeatu
+  nameWithType: EXCELkudeatu
+  fullName: SUPERMERKATUA.EXCELkudeatu
+- uid: SUPERMERKATUA.FitxategiaKargatu
+  commentId: T:SUPERMERKATUA.FitxategiaKargatu
+  href: SUPERMERKATUA.FitxategiaKargatu.html
+  name: FitxategiaKargatu
+  nameWithType: FitxategiaKargatu
+  fullName: SUPERMERKATUA.FitxategiaKargatu
+- uid: SUPERMERKATUA.KudeatuEmail
+  commentId: T:SUPERMERKATUA.KudeatuEmail
+  href: SUPERMERKATUA.KudeatuEmail.html
+  name: KudeatuEmail
+  nameWithType: KudeatuEmail
+  fullName: SUPERMERKATUA.KudeatuEmail
+- uid: SUPERMERKATUA.Produktua
+  commentId: T:SUPERMERKATUA.Produktua
+  href: SUPERMERKATUA.Produktua.html
+  name: Produktua
+  nameWithType: Produktua
+  fullName: SUPERMERKATUA.Produktua
+- uid: SUPERMERKATUA.Saltzailea
+  commentId: T:SUPERMERKATUA.Saltzailea
+  href: SUPERMERKATUA.Saltzailea.html
+  name: Saltzailea
+  nameWithType: Saltzailea
+  fullName: SUPERMERKATUA.Saltzailea
+- uid: SUPERMERKATUA.TIKETA
+  commentId: T:SUPERMERKATUA.TIKETA
+  href: SUPERMERKATUA.TIKETA.html
+  name: TIKETA
+  nameWithType: TIKETA
+  fullName: SUPERMERKATUA.TIKETA
+- uid: SUPERMERKATUA.XMLsortu
+  commentId: T:SUPERMERKATUA.XMLsortu
+  href: SUPERMERKATUA.XMLsortu.html
+  name: XMLsortu
+  nameWithType: XMLsortu
+  fullName: SUPERMERKATUA.XMLsortu

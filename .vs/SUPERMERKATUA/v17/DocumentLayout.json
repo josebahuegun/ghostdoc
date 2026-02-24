@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\supermerkatua.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:supermerkatua.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\fitxategiakargatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:fitxategiakargatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\tiketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:tiketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\saltzailea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:saltzailea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\produktua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:produktua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\xmlsortu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:xmlsortu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\kudeatuemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:kudeatuemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\excelkudeatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:excelkudeatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SUPERMERKATUA.csproj",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SUPERMERKATUA.csproj",
+              "RelativeDocumentMoniker": "SUPERMERKATUA.csproj",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SUPERMERKATUA.csproj",
+              "RelativeToolTip": "SUPERMERKATUA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T07:13:11.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ESTADISTIKAK.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\ESTADISTIKAK.cs",
+              "RelativeDocumentMoniker": "ESTADISTIKAK.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\ESTADISTIKAK.cs",
+              "RelativeToolTip": "ESTADISTIKAK.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:17:27.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XMLsortu.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\XMLsortu.cs",
+              "RelativeDocumentMoniker": "XMLsortu.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\XMLsortu.cs",
+              "RelativeToolTip": "XMLsortu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:24:52.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KudeatuEmail.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\KudeatuEmail.cs",
+              "RelativeDocumentMoniker": "KudeatuEmail.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\KudeatuEmail.cs",
+              "RelativeToolTip": "KudeatuEmail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:37:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EXCELkudeatu.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\EXCELkudeatu.cs",
+              "RelativeDocumentMoniker": "EXCELkudeatu.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\EXCELkudeatu.cs",
+              "RelativeToolTip": "EXCELkudeatu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:16:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FITXATEGIAKARGATU.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\FITXATEGIAKARGATU.cs",
+              "RelativeDocumentMoniker": "FITXATEGIAKARGATU.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\FITXATEGIAKARGATU.cs",
+              "RelativeToolTip": "FITXATEGIAKARGATU.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAQwEUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:48:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRODUKTUA.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\PRODUKTUA.cs",
+              "RelativeDocumentMoniker": "PRODUKTUA.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\PRODUKTUA.cs",
+              "RelativeToolTip": "PRODUKTUA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:39:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SALTZAILEA.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SALTZAILEA.cs",
+              "RelativeDocumentMoniker": "SALTZAILEA.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SALTZAILEA.cs",
+              "RelativeToolTip": "SALTZAILEA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:38:34.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TIKETA.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\TIKETA.cs",
+              "RelativeDocumentMoniker": "TIKETA.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\TIKETA.cs",
+              "RelativeToolTip": "TIKETA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:38:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:38:06.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

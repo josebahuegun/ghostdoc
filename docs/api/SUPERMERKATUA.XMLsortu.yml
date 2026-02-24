@@ -1,0 +1,476 @@
+### YamlMime:ManagedReference
+items:
+- uid: SUPERMERKATUA.XMLsortu
+  commentId: T:SUPERMERKATUA.XMLsortu
+  id: XMLsortu
+  parent: SUPERMERKATUA
+  children:
+  - SUPERMERKATUA.XMLsortu.Balidatu(System.String,System.String)
+  - SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List{SUPERMERKATUA.TIKETA},System.String)
+  langs:
+  - csharp
+  - vb
+  name: XMLsortu
+  nameWithType: XMLsortu
+  fullName: SUPERMERKATUA.XMLsortu
+  type: Class
+  source:
+    id: XMLsortu
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    startLine: 8
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  syntax:
+    content: public class XMLsortu
+    content.vb: Public Class XMLsortu
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List{SUPERMERKATUA.TIKETA},System.String)
+  commentId: M:SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List{SUPERMERKATUA.TIKETA},System.String)
+  id: Sortu(System.Collections.Generic.List{SUPERMERKATUA.TIKETA},System.String)
+  parent: SUPERMERKATUA.XMLsortu
+  langs:
+  - csharp
+  - vb
+  name: Sortu(List<TIKETA>, string)
+  nameWithType: XMLsortu.Sortu(List<TIKETA>, string)
+  fullName: SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List<SUPERMERKATUA.TIKETA>, string)
+  type: Method
+  source:
+    id: Sortu
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    startLine: 11
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  syntax:
+    content: public static string Sortu(List<TIKETA> zerrenda, string rootPath)
+    parameters:
+    - id: zerrenda
+      type: System.Collections.Generic.List{SUPERMERKATUA.TIKETA}
+    - id: rootPath
+      type: System.String
+    return:
+      type: System.String
+    content.vb: Public Shared Function Sortu(zerrenda As List(Of TIKETA), rootPath As String) As String
+  overload: SUPERMERKATUA.XMLsortu.Sortu*
+  nameWithType.vb: XMLsortu.Sortu(List(Of TIKETA), String)
+  fullName.vb: SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List(Of SUPERMERKATUA.TIKETA), String)
+  name.vb: Sortu(List(Of TIKETA), String)
+- uid: SUPERMERKATUA.XMLsortu.Balidatu(System.String,System.String)
+  commentId: M:SUPERMERKATUA.XMLsortu.Balidatu(System.String,System.String)
+  id: Balidatu(System.String,System.String)
+  parent: SUPERMERKATUA.XMLsortu
+  langs:
+  - csharp
+  - vb
+  name: Balidatu(string, string)
+  nameWithType: XMLsortu.Balidatu(string, string)
+  fullName: SUPERMERKATUA.XMLsortu.Balidatu(string, string)
+  type: Method
+  source:
+    id: Balidatu
+    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    startLine: 41
+  assemblies:
+  - SUPERMERKATUA
+  namespace: SUPERMERKATUA
+  syntax:
+    content: public static bool Balidatu(string xmlPath, string rootPath)
+    parameters:
+    - id: xmlPath
+      type: System.String
+    - id: rootPath
+      type: System.String
+    return:
+      type: System.Boolean
+    content.vb: Public Shared Function Balidatu(xmlPath As String, rootPath As String) As Boolean
+  overload: SUPERMERKATUA.XMLsortu.Balidatu*
+  nameWithType.vb: XMLsortu.Balidatu(String, String)
+  fullName.vb: SUPERMERKATUA.XMLsortu.Balidatu(String, String)
+  name.vb: Balidatu(String, String)
+references:
+- uid: SUPERMERKATUA
+  commentId: N:SUPERMERKATUA
+  href: SUPERMERKATUA.html
+  name: SUPERMERKATUA
+  nameWithType: SUPERMERKATUA
+  fullName: SUPERMERKATUA
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: SUPERMERKATUA.XMLsortu.Sortu*
+  commentId: Overload:SUPERMERKATUA.XMLsortu.Sortu
+  href: SUPERMERKATUA.XMLsortu.html#SUPERMERKATUA_XMLsortu_Sortu_System_Collections_Generic_List_SUPERMERKATUA_TIKETA__System_String_
+  name: Sortu
+  nameWithType: XMLsortu.Sortu
+  fullName: SUPERMERKATUA.XMLsortu.Sortu
+- uid: System.Collections.Generic.List{SUPERMERKATUA.TIKETA}
+  commentId: T:System.Collections.Generic.List{SUPERMERKATUA.TIKETA}
+  parent: System.Collections.Generic
+  definition: System.Collections.Generic.List`1
+  href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  name: List<TIKETA>
+  nameWithType: List<TIKETA>
+  fullName: System.Collections.Generic.List<SUPERMERKATUA.TIKETA>
+  nameWithType.vb: List(Of TIKETA)
+  fullName.vb: System.Collections.Generic.List(Of SUPERMERKATUA.TIKETA)
+  name.vb: List(Of TIKETA)
+  spec.csharp:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  - name: <
+  - uid: SUPERMERKATUA.TIKETA
+    name: TIKETA
+    href: SUPERMERKATUA.TIKETA.html
+  - name: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  - name: (
+  - name: Of
+  - name: " "
+  - uid: SUPERMERKATUA.TIKETA
+    name: TIKETA
+    href: SUPERMERKATUA.TIKETA.html
+  - name: )
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.string
+  name: string
+  nameWithType: string
+  fullName: string
+  nameWithType.vb: String
+  fullName.vb: String
+  name.vb: String
+- uid: System.Collections.Generic.List`1
+  commentId: T:System.Collections.Generic.List`1
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  name: List<T>
+  nameWithType: List<T>
+  fullName: System.Collections.Generic.List<T>
+  nameWithType.vb: List(Of T)
+  fullName.vb: System.Collections.Generic.List(Of T)
+  name.vb: List(Of T)
+  spec.csharp:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  - name: <
+  - name: T
+  - name: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1
+  - name: (
+  - name: Of
+  - name: " "
+  - name: T
+  - name: )
+- uid: System.Collections.Generic
+  commentId: N:System.Collections.Generic
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System.Collections.Generic
+  nameWithType: System.Collections.Generic
+  fullName: System.Collections.Generic
+  spec.csharp:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Collections
+    name: Collections
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections
+  - name: .
+  - uid: System.Collections.Generic
+    name: Generic
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic
+  spec.vb:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Collections
+    name: Collections
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections
+  - name: .
+  - uid: System.Collections.Generic
+    name: Generic
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.collections.generic
+- uid: SUPERMERKATUA.XMLsortu.Balidatu*
+  commentId: Overload:SUPERMERKATUA.XMLsortu.Balidatu
+  href: SUPERMERKATUA.XMLsortu.html#SUPERMERKATUA_XMLsortu_Balidatu_System_String_System_String_
+  name: Balidatu
+  nameWithType: XMLsortu.Balidatu
+  fullName: SUPERMERKATUA.XMLsortu.Balidatu
+- uid: System.Boolean
+  commentId: T:System.Boolean
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.boolean
+  name: bool
+  nameWithType: bool
+  fullName: bool
+  nameWithType.vb: Boolean
+  fullName.vb: Boolean
+  name.vb: Boolean

@@ -1,0 +1,117 @@
+{
+  "Dokumentazioa/getting-started.html": {
+    "href": "Dokumentazioa/getting-started.html",
+    "title": "Getting Started | josebahuegun",
+    "summary": "Getting Started"
+  },
+  "Dokumentazioa/introduction.html": {
+    "href": "Dokumentazioa/introduction.html",
+    "title": "Introduction | josebahuegun",
+    "summary": "Introduction"
+  },
+  "api/SUPERMERKATUA.ESTADISTIKAK.html": {
+    "href": "api/SUPERMERKATUA.ESTADISTIKAK.html",
+    "title": "Class ESTADISTIKAK | josebahuegun",
+    "summary": "Class ESTADISTIKAK Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll ESTADITIKAK KLASEA public class ESTADISTIKAK Inheritance object ESTADISTIKAK Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GehienSalduDenEguna(string) Gehiens the saldu den eguna. public static void GehienSalduDenEguna(string connectionString) Parameters connectionString string The connection string. GehienSalduDenProduktua(string) Gehiens the saldu den produktua. public static void GehienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GehienSalduDuenSaltzailea(string) Gehien saldu den saltzailea. public static void GehienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. GutxienSalduDenProduktua(string) Gutxiens the saldu den produktua. public static void GutxienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GutxienSalduDuenSaltzailea(string) Gutxiens the saldu duen saltzailea. public static void GutxienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. SaldutakoaSaltzaileko(string) Saldutakoas the saltzaileko. public static void SaldutakoaSaltzaileko(string connectionString) Parameters connectionString string The connection string."
+  },
+  "api/SUPERMERKATUA.EXCELkudeatu.html": {
+    "href": "api/SUPERMERKATUA.EXCELkudeatu.html",
+    "title": "Class EXCELkudeatu | josebahuegun",
+    "summary": "Class EXCELkudeatu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll A public class EXCELkudeatu Inheritance object EXCELkudeatu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Erregistratu(string, string) Erregistratus the specified XML path. public static void Erregistratu(string xmlPath, string rootPath) Parameters xmlPath string The XML path. rootPath string The root path."
+  },
+  "api/SUPERMERKATUA.FitxategiaKargatu.html": {
+    "href": "api/SUPERMERKATUA.FitxategiaKargatu.html",
+    "title": "Class FitxategiaKargatu | josebahuegun",
+    "summary": "Class FitxategiaKargatu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class FitxategiaKargatu Inheritance object FitxategiaKargatu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DatuakInportatu(string) Datuaks the inportatu. public static void DatuakInportatu(string connectionString) Parameters connectionString string The connection string."
+  },
+  "api/SUPERMERKATUA.KudeatuEmail.html": {
+    "href": "api/SUPERMERKATUA.KudeatuEmail.html",
+    "title": "Class KudeatuEmail | josebahuegun",
+    "summary": "Class KudeatuEmail Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll EMAILA KUDEATZEKO KLASEA public class KudeatuEmail Inheritance object KudeatuEmail Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Bidali(string) Bidalis the specified adjunto path. public static void Bidali(string adjuntoPath) Parameters adjuntoPath string The adjunto path."
+  },
+  "api/SUPERMERKATUA.Produktua.html": {
+    "href": "api/SUPERMERKATUA.Produktua.html",
+    "title": "Class Produktua | josebahuegun",
+    "summary": "Class Produktua Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class Produktua Inheritance object Produktua Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Produktua() public Produktua() Properties Id public int Id { get; set; } Property Value int Izena public string Izena { get; set; } Property Value string Kategoria public string Kategoria { get; set; } Property Value string"
+  },
+  "api/SUPERMERKATUA.Saltzailea.html": {
+    "href": "api/SUPERMERKATUA.Saltzailea.html",
+    "title": "Class Saltzailea | josebahuegun",
+    "summary": "Class Saltzailea Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class Saltzailea Inheritance object Saltzailea Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Saltzailea() public Saltzailea() Properties Id public int Id { get; set; } Property Value int Izena public string Izena { get; set; } Property Value string Nan public string Nan { get; set; } Property Value string"
+  },
+  "api/SUPERMERKATUA.TIKETA.html": {
+    "href": "api/SUPERMERKATUA.TIKETA.html",
+    "title": "Class TIKETA | josebahuegun",
+    "summary": "Class TIKETA Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class TIKETA Inheritance object TIKETA Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors TIKETA() public TIKETA() Properties Data public DateTime Data { get; set; } Property Value DateTime Id public int Id { get; set; } Property Value int IdProduktua public int IdProduktua { get; set; } Property Value int IdSaltzailea public int IdSaltzailea { get; set; } Property Value int Kantitatea public decimal Kantitatea { get; set; } Property Value decimal PrezioaKg public decimal PrezioaKg { get; set; } Property Value decimal Totala public decimal Totala { get; set; } Property Value decimal"
+  },
+  "api/SUPERMERKATUA.XMLsortu.html": {
+    "href": "api/SUPERMERKATUA.XMLsortu.html",
+    "title": "Class XMLsortu | josebahuegun",
+    "summary": "Class XMLsortu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class XMLsortu Inheritance object XMLsortu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Balidatu(string, string) public static bool Balidatu(string xmlPath, string rootPath) Parameters xmlPath string rootPath string Returns bool Sortu(List<TIKETA>, string) public static string Sortu(List<TIKETA> zerrenda, string rootPath) Parameters zerrenda List<TIKETA> rootPath string Returns string"
+  },
+  "api/SUPERMERKATUA.html": {
+    "href": "api/SUPERMERKATUA.html",
+    "title": "Namespace SUPERMERKATUA | josebahuegun",
+    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA Produktua Saltzailea TIKETA XMLsortu"
+  },
+  "docs/api/SUPERMERKATUA.ESTADISTIKAK.html": {
+    "href": "docs/api/SUPERMERKATUA.ESTADISTIKAK.html",
+    "title": "Class ESTADISTIKAK | josebahuegun",
+    "summary": "Class ESTADISTIKAK Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll ESTADITIKAK KLASEA public class ESTADISTIKAK Inheritance object ESTADISTIKAK Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GehienSalduDenEguna(string) Gehiens the saldu den eguna. public static void GehienSalduDenEguna(string connectionString) Parameters connectionString string The connection string. GehienSalduDenProduktua(string) Gehiens the saldu den produktua. public static void GehienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GehienSalduDuenSaltzailea(string) Gehien saldu den saltzailea. public static void GehienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. GutxienSalduDenProduktua(string) Gutxiens the saldu den produktua. public static void GutxienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GutxienSalduDuenSaltzailea(string) Gutxiens the saldu duen saltzailea. public static void GutxienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. SaldutakoaSaltzaileko(string) Saldutakoas the saltzaileko. public static void SaldutakoaSaltzaileko(string connectionString) Parameters connectionString string The connection string."
+  },
+  "docs/api/SUPERMERKATUA.EXCELkudeatu.html": {
+    "href": "docs/api/SUPERMERKATUA.EXCELkudeatu.html",
+    "title": "Class EXCELkudeatu | josebahuegun",
+    "summary": "Class EXCELkudeatu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll A public class EXCELkudeatu Inheritance object EXCELkudeatu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Erregistratu(string, string) Erregistratus the specified XML path. public static void Erregistratu(string xmlPath, string rootPath) Parameters xmlPath string The XML path. rootPath string The root path."
+  },
+  "docs/api/SUPERMERKATUA.FitxategiaKargatu.html": {
+    "href": "docs/api/SUPERMERKATUA.FitxategiaKargatu.html",
+    "title": "Class FitxategiaKargatu | josebahuegun",
+    "summary": "Class FitxategiaKargatu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class FitxategiaKargatu Inheritance object FitxategiaKargatu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DatuakInportatu(string) Datuaks the inportatu. public static void DatuakInportatu(string connectionString) Parameters connectionString string The connection string."
+  },
+  "docs/api/SUPERMERKATUA.KudeatuEmail.html": {
+    "href": "docs/api/SUPERMERKATUA.KudeatuEmail.html",
+    "title": "Class KudeatuEmail | josebahuegun",
+    "summary": "Class KudeatuEmail Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll EMAILA KUDEATZEKO KLASEA public class KudeatuEmail Inheritance object KudeatuEmail Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Bidali(string) Bidalis the specified adjunto path. public static void Bidali(string adjuntoPath) Parameters adjuntoPath string The adjunto path."
+  },
+  "docs/api/SUPERMERKATUA.Produktua.html": {
+    "href": "docs/api/SUPERMERKATUA.Produktua.html",
+    "title": "Class Produktua | josebahuegun",
+    "summary": "Class Produktua Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class Produktua Inheritance object Produktua Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Produktua() public Produktua() Properties Id public int Id { get; set; } Property Value int Izena public string Izena { get; set; } Property Value string Kategoria public string Kategoria { get; set; } Property Value string"
+  },
+  "docs/api/SUPERMERKATUA.Saltzailea.html": {
+    "href": "docs/api/SUPERMERKATUA.Saltzailea.html",
+    "title": "Class Saltzailea | josebahuegun",
+    "summary": "Class Saltzailea Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class Saltzailea Inheritance object Saltzailea Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Saltzailea() public Saltzailea() Properties Id public int Id { get; set; } Property Value int Izena public string Izena { get; set; } Property Value string Nan public string Nan { get; set; } Property Value string"
+  },
+  "docs/api/SUPERMERKATUA.TIKETA.html": {
+    "href": "docs/api/SUPERMERKATUA.TIKETA.html",
+    "title": "Class TIKETA | josebahuegun",
+    "summary": "Class TIKETA Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class TIKETA Inheritance object TIKETA Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors TIKETA() public TIKETA() Properties Data public DateTime Data { get; set; } Property Value DateTime Id public int Id { get; set; } Property Value int IdProduktua public int IdProduktua { get; set; } Property Value int IdSaltzailea public int IdSaltzailea { get; set; } Property Value int Kantitatea public decimal Kantitatea { get; set; } Property Value decimal PrezioaKg public decimal PrezioaKg { get; set; } Property Value decimal Totala public decimal Totala { get; set; } Property Value decimal"
+  },
+  "docs/api/SUPERMERKATUA.XMLsortu.html": {
+    "href": "docs/api/SUPERMERKATUA.XMLsortu.html",
+    "title": "Class XMLsortu | josebahuegun",
+    "summary": "Class XMLsortu Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll public class XMLsortu Inheritance object XMLsortu Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Balidatu(string, string) public static bool Balidatu(string xmlPath, string rootPath) Parameters xmlPath string rootPath string Returns bool Sortu(List<TIKETA>, string) public static string Sortu(List<TIKETA> zerrenda, string rootPath) Parameters zerrenda List<TIKETA> rootPath string Returns string"
+  },
+  "docs/api/SUPERMERKATUA.html": {
+    "href": "docs/api/SUPERMERKATUA.html",
+    "title": "Namespace SUPERMERKATUA | josebahuegun",
+    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA Produktua Saltzailea TIKETA XMLsortu"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | josebahuegun",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | josebahuegun",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | josebahuegun",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
