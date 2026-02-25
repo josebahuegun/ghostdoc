@@ -18,7 +18,7 @@ items:
     remote:
       path: XMLsortu.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: XMLsortu
     path: XMLsortu.cs
     startLine: 8
@@ -53,7 +53,7 @@ items:
     remote:
       path: XMLsortu.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Sortu
     path: XMLsortu.cs
     startLine: 11
@@ -89,7 +89,7 @@ items:
     remote:
       path: XMLsortu.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Balidatu
     path: XMLsortu.cs
     startLine: 41

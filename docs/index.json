@@ -12,7 +12,7 @@
   "api/SUPERMERKATUA.ESTADISTIKAK.html": {
     "href": "api/SUPERMERKATUA.ESTADISTIKAK.html",
     "title": "Class ESTADISTIKAK | josebahuegun",
-    "summary": "Class ESTADISTIKAK Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll ESTADITIKAK KLASEA public class ESTADISTIKAK Inheritance object ESTADISTIKAK Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GehienSalduDenEguna(string) Gehiens the saldu den eguna. public static void GehienSalduDenEguna(string connectionString) Parameters connectionString string The connection string. GehienSalduDenProduktua(string) Gehiens the saldu den produktua. public static void GehienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GehienSalduDuenSaltzailea(string) Gehien saldu den saltzailea. public static void GehienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. GutxienSalduDenProduktua(string) Gutxiens the saldu den produktua. public static void GutxienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GutxienSalduDuenSaltzailea(string) Gutxiens the saldu duen saltzailea. public static void GutxienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. SaldutakoaSaltzaileko(string) Saldutakoas the saltzaileko. public static void SaldutakoaSaltzaileko(string connectionString) Parameters connectionString string The connection string."
+    "summary": "Class ESTADISTIKAK Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll ESTADITIKAK KLASEA public class ESTADISTIKAK Inheritance object ESTADISTIKAK Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GehienSalduDenEguna(string) Gehiens the saldu den eguna. public static void GehienSalduDenEguna(string connectionString) Parameters connectionString string The connection string. GehienSalduDenProduktua(string) kaixo alonaaaa, gehien saldu den produktua public static void GehienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GehienSalduDuenSaltzailea(string) Gehien saldu den saltzailea. public static void GehienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. GutxienSalduDenProduktua(string) Gutxiens the saldu den produktua. public static void GutxienSalduDenProduktua(string connectionString) Parameters connectionString string The connection string. GutxienSalduDuenSaltzailea(string) Gutxiens the saldu duen saltzailea. public static void GutxienSalduDuenSaltzailea(string connectionString) Parameters connectionString string The connection string. SaldutakoaSaltzaileko(string) Saldutakoas the saltzaileko. public static void SaldutakoaSaltzaileko(string connectionString) Parameters connectionString string The connection string."
   },
   "api/SUPERMERKATUA.EXCELkudeatu.html": {
     "href": "api/SUPERMERKATUA.EXCELkudeatu.html",
@@ -27,7 +27,7 @@
   "api/SUPERMERKATUA.KudeatuEmail.html": {
     "href": "api/SUPERMERKATUA.KudeatuEmail.html",
     "title": "Class KudeatuEmail | josebahuegun",
-    "summary": "Class KudeatuEmail Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll EMAILA KUDEATZEKO KLASEA public class KudeatuEmail Inheritance object KudeatuEmail Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Bidali(string) Bidalis the specified adjunto path. public static void Bidali(string adjuntoPath) Parameters adjuntoPath string The adjunto path."
+    "summary": "Class KudeatuEmail Namespace SUPERMERKATUA Assembly SUPERMERKATUA.dll EMAILA KUDEATZEKO KLASEA kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita. public class KudeatuEmail Inheritance object KudeatuEmail Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Bidali(string) Bidalis the specified adjunto path. public static void Bidali(string adjuntoPath) Parameters adjuntoPath string The adjunto path."
   },
   "api/SUPERMERKATUA.Produktua.html": {
     "href": "api/SUPERMERKATUA.Produktua.html",
@@ -52,7 +52,7 @@
   "api/SUPERMERKATUA.html": {
     "href": "api/SUPERMERKATUA.html",
     "title": "Namespace SUPERMERKATUA | josebahuegun",
-    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA Produktua Saltzailea TIKETA XMLsortu"
+    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita. Produktua Saltzailea TIKETA XMLsortu"
   },
   "docs/api/SUPERMERKATUA.ESTADISTIKAK.html": {
     "href": "docs/api/SUPERMERKATUA.ESTADISTIKAK.html",
@@ -97,7 +97,7 @@
   "docs/api/SUPERMERKATUA.html": {
     "href": "docs/api/SUPERMERKATUA.html",
     "title": "Namespace SUPERMERKATUA | josebahuegun",
-    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA Produktua Saltzailea TIKETA XMLsortu"
+    "summary": "Namespace SUPERMERKATUA Classes ESTADISTIKAK ESTADITIKAK KLASEA EXCELkudeatu A FitxategiaKargatu KudeatuEmail EMAILA KUDEATZEKO KLASEA kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita. Produktua Saltzailea TIKETA XMLsortu"
   },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",

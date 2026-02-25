@@ -22,7 +22,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: ESTADISTIKAK
     path: ESTADISTIKAK.cs
     startLine: 12
@@ -59,14 +59,14 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: GehienSalduDenProduktua
     path: ESTADISTIKAK.cs
     startLine: 19
   assemblies:
   - SUPERMERKATUA
   namespace: SUPERMERKATUA
-  summary: Gehiens the saldu den produktua.
+  summary: kaixo alonaaaa, gehien saldu den produktua
   example: []
   syntax:
     content: public static void GehienSalduDenProduktua(string connectionString)
@@ -94,7 +94,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: GutxienSalduDenProduktua
     path: ESTADISTIKAK.cs
     startLine: 52
@@ -129,7 +129,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: GehienSalduDuenSaltzailea
     path: ESTADISTIKAK.cs
     startLine: 85
@@ -164,7 +164,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: GutxienSalduDuenSaltzailea
     path: ESTADISTIKAK.cs
     startLine: 118
@@ -199,7 +199,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: GehienSalduDenEguna
     path: ESTADISTIKAK.cs
     startLine: 151
@@ -234,7 +234,7 @@ items:
     remote:
       path: ESTADISTIKAK.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: SaldutakoaSaltzaileko
     path: ESTADISTIKAK.cs
     startLine: 184

@@ -17,14 +17,17 @@ items:
     remote:
       path: KudeatuEmail.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: KudeatuEmail
     path: KudeatuEmail.cs
-    startLine: 10
+    startLine: 11
   assemblies:
   - SUPERMERKATUA
   namespace: SUPERMERKATUA
-  summary: EMAILA KUDEATZEKO KLASEA
+  summary: >-
+    EMAILA KUDEATZEKO KLASEA
+
+    kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita.
   example: []
   syntax:
     content: public class KudeatuEmail
@@ -54,10 +57,10 @@ items:
     remote:
       path: KudeatuEmail.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Bidali
     path: KudeatuEmail.cs
-    startLine: 16
+    startLine: 17
   assemblies:
   - SUPERMERKATUA
   namespace: SUPERMERKATUA

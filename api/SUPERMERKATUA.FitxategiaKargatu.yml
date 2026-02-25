@@ -17,7 +17,7 @@ items:
     remote:
       path: FITXATEGIAKARGATU.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: FitxategiaKargatu
     path: FITXATEGIAKARGATU.cs
     startLine: 11
@@ -54,7 +54,7 @@ items:
     remote:
       path: FITXATEGIAKARGATU.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: DatuakInportatu
     path: FITXATEGIAKARGATU.cs
     startLine: 25

@@ -20,7 +20,7 @@ items:
     remote:
       path: SALTZAILEA.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Saltzailea
     path: SALTZAILEA.cs
     startLine: 8
@@ -55,7 +55,7 @@ items:
     remote:
       path: SALTZAILEA.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Id
     path: SALTZAILEA.cs
     startLine: 11
@@ -84,7 +84,7 @@ items:
     remote:
       path: SALTZAILEA.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Izena
     path: SALTZAILEA.cs
     startLine: 12
@@ -113,7 +113,7 @@ items:
     remote:
       path: SALTZAILEA.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Nan
     path: SALTZAILEA.cs
     startLine: 13
@@ -142,7 +142,7 @@ items:
     remote:
       path: SALTZAILEA.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: .ctor
     path: SALTZAILEA.cs
     startLine: 15

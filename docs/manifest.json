@@ -97,7 +97,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "SUPERMERKATUA.KudeatuEmail",
-      "Summary": "<p sourcefile=\"api/SUPERMERKATUA.KudeatuEmail.yml\" sourcestartlinenumber=\"1\">EMAILA KUDEATZEKO KLASEA</p>\n"
+      "Summary": "<p sourcefile=\"api/SUPERMERKATUA.KudeatuEmail.yml\" sourcestartlinenumber=\"1\">EMAILA KUDEATZEKO KLASEA\nkaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita.</p>\n"
     },
     {
       "type": "ManagedReference",

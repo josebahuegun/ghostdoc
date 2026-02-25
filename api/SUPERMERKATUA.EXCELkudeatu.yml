@@ -17,7 +17,7 @@ items:
     remote:
       path: EXCELkudeatu.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: EXCELkudeatu
     path: EXCELkudeatu.cs
     startLine: 8
@@ -54,7 +54,7 @@ items:
     remote:
       path: EXCELkudeatu.cs
       branch: main
-      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
+      repo: https://github.com/josebahuegun/ghostdoc.git
     id: Erregistratu
     path: EXCELkudeatu.cs
     startLine: 15
