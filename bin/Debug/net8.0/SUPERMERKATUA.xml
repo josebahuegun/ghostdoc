@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SUPERMERKATUA</name>
+    </assembly>
+    <members>
+        <member name="T:SUPERMERKATUA.ESTADISTIKAK">
+            <summary>
+            ESTADITIKAK KLASEA
+            </summary>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(System.String)">
+            <summary>
+            kaixo alonaaaa, gehien saldu den produktua
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(System.String)">
+            <summary>
+            Gutxiens the saldu den produktua.
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(System.String)">
+            <summary>
+            Gehien saldu den saltzailea.
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(System.String)">
+            <summary>
+            Gutxiens the saldu duen saltzailea.
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(System.String)">
+            <summary>
+            Gehiens the saldu den eguna.
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(System.String)">
+            <summary>
+            Saldutakoas the saltzaileko.
+            </summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="T:SUPERMERKATUA.EXCELkudeatu">
+            <summary>
+            A
+            </summary>
+        </member>
+        <member name="M:SUPERMERKATUA.EXCELkudeatu.Erregistratu(System.String,System.String)">
+            <summary>
+            Erregistratus the specified XML path.
+            </summary>
+            <param name="xmlPath">The XML path.</param>
+            <param name="rootPath">The root path.</param>
+        </member>
+        <member name="T:SUPERMERKATUA.FitxategiaKargatu">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SUPERMERKATUA.FitxategiaKargatu.rootPath">
+            <summary>
+            The root path
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:SUPERMERKATUA.FitxategiaKargatu.backupPath" -->
+        <member name="M:SUPERMERKATUA.FitxategiaKargatu.DatuakInportatu(System.String)">
+            <summary>Datuaks the inportatu.</summary>
+            <param name="connectionString">The connection string.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.FitxategiaKargatu.SortuKarpetak">
+            <summary>
+            Sortus the karpetak.
+            </summary>
+        </member>
+        <member name="T:SUPERMERKATUA.KudeatuEmail">
+            <summary>
+            EMAILA KUDEATZEKO KLASEA
+            kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita.
+            </summary>
+        </member>
+        <member name="M:SUPERMERKATUA.KudeatuEmail.Bidali(System.String)">
+            <summary>
+            Bidalis the specified adjunto path.
+            </summary>
+            <param name="adjuntoPath">The adjunto path.</param>
+        </member>
+        <member name="T:SUPERMERKATUA.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SUPERMERKATUA.Program.connectionString">
+            <summary>
+            The connection string
+            </summary>
+        </member>
+        <member name="M:SUPERMERKATUA.Program.Main(System.String[])">
+            <summary>
+            Defines the entry point of the application.
+            </summary>
+            <param name="args">The arguments.</param>
+        </member>
+        <member name="M:SUPERMERKATUA.Program.ErakutsiDatuak">
+            <summary>
+            Erakutsis the datuak.
+            </summary>
+        </member>
+        <member name="M:SUPERMERKATUA.Program.Estadistika">
+            <summary>
+            Estadistikas this instance.
+            </summary>
+        </member>
+    </members>
+</doc>

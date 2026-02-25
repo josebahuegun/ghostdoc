@@ -14,7 +14,7 @@ namespace SUPERMERKATUA
     {
         // 1. GEHIEN SALDU DEN PRODUKTUA
         /// <summary>
-        /// Gehiens the saldu den produktua.
+        /// kaixo alonaaaa, gehien saldu den produktua
         /// </summary>
         /// <param name="connectionString">The connection string.</param>
         public static void GehienSalduDenProduktua(string connectionString)

@@ -72,3 +72,6 @@ C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\n
 C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\net8.0\SUPERMERKATUA.pdb
 C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\net8.0\SUPERMERKATUA.genruntimeconfig.cache
 C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\net8.0\ref\SUPERMERKATUA.dll
+C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\bin\Debug\net8.0\SUPERMERKATUA.xml
+C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\net8.0\SUPERMERKATUA.sourcelink.json
+C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\obj\Debug\net8.0\SUPERMERKATUA.xml

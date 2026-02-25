@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SUPERMERKATUA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6a16278bfb82aea8216dd120905122622fb899")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a401bc54978f1d4fc643d12095cacfc52aeb30")]
 [assembly: System.Reflection.AssemblyProductAttribute("SUPERMERKATUA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SUPERMERKATUA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

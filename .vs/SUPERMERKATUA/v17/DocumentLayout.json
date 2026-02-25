@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\kudeatuemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:kudeatuemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\supermerkatua.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:supermerkatua.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|solutionrelative:estadistikak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE36B5CC-9EBE-47AA-8418-32074B6848A1}|SUPERMERKATUA.csproj|c:\\users\\josebahuegun\\desktop\\erronkak\\2\\visualerronka\\supermerkatua\\fitxategiakargatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 47,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SUPERMERKATUA.csproj",
               "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SUPERMERKATUA.csproj",
               "RelativeDocumentMoniker": "SUPERMERKATUA.csproj",
@@ -66,20 +66,20 @@
               "RelativeToolTip": "SUPERMERKATUA.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T07:13:11.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T07:13:11.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ESTADISTIKAK.cs",
               "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\ESTADISTIKAK.cs",
               "RelativeDocumentMoniker": "ESTADISTIKAK.cs",
               "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\ESTADISTIKAK.cs",
               "RelativeToolTip": "ESTADISTIKAK.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:17:27.764Z"
+              "WhenOpened": "2026-01-21T07:17:27.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KudeatuEmail.cs",
               "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\KudeatuEmail.cs",
               "RelativeDocumentMoniker": "KudeatuEmail.cs",
