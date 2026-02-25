@@ -59,7 +59,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SUPERMERKATUA",
+              "Title": "SUPERMERKATUA.csproj",
               "DocumentMoniker": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SUPERMERKATUA.csproj",
               "RelativeDocumentMoniker": "SUPERMERKATUA.csproj",
               "ToolTip": "C:\\Users\\josebahuegun\\Desktop\\ERRONKAK\\2\\VISUALERRONKA\\SUPERMERKATUA\\SUPERMERKATUA.csproj",
@@ -79,8 +79,7 @@
               "RelativeToolTip": "ESTADISTIKAK.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAYwFwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:17:27.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:17:27.764Z"
             },
             {
               "$type": "Document",

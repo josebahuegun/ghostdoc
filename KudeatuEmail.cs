@@ -7,6 +7,7 @@ namespace SUPERMERKATUA
 {
     /// <summary>
     /// EMAILA KUDEATZEKO KLASEA
+    /// kaixo kaixo kaixooooo, hau da emaila kudeatzeko klasea, bertan gmail bidez emailak bidaltzeko metodoa dago, backup xml fitxategia atxikita.
     /// </summary>
     public class KudeatuEmail
     {
